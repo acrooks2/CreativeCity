@@ -2,13 +2,13 @@
 
 ![Model GUI](GUI.png)
 
-Within this repository you will find additional information about our agent-based model which explores the creativity and urban development.
+Within this repository you will find additional information about our agent-based model which explores the creativity and urban development:
 
 * For a detailed Overview, Design concepts, and Details (ODD) protocol of our model see [ODD.pdf](ODD.pdf)
 * The Original Model (created in NetLogo 5.0.3) see [Creative_City_NetLogoV5_0_3.nlogo](Creative_City_NetLogoV5_0_3.nlogo)
 
 
-Click on the image below to see a short movie of a simulation run:
+Click on the image below to see a short movie (<https://youtu.be/3z01Q34vtKo>) of a simulation run:
 
 [![Creative Cities](http://img.youtube.com/vi/3z01Q34vtKo/0.jpg)](http://www.youtube.com/watch?v=3z01Q34vtKo "Creative Cities")
 
