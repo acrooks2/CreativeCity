@@ -6,6 +6,8 @@ Within this repository you will find additional information about our agent-base
 
 * For a detailed Overview, Design concepts, and Details (ODD) protocol of our model see [ODD.pdf](ODD.pdf)
 * The Original Model (created in NetLogo 5.0.3) see [Creative_City_NetLogoV5_0_3.nlogo](Creative_City_NetLogoV5_0_3.nlogo)
+* Updated Model (NetLogo 6.1.0) see [Creative_City_NetLogoV6_1.nlogo](Creative_City_NetLogoV6_1.nlogo)
+
 
 
 Click on the image below to see a short movie (<https://youtu.be/3z01Q34vtKo>) of a simulation run:
